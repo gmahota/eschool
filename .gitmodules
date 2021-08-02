@@ -1,0 +1,6 @@
+[submodule "nextjs-eschool-web"]
+	path = nextjs-eschool-web
+	url = https://github.com/gmahota/nextjs-eschool-web.git
+[submodule "nodejs-eschool-api"]
+	path = nodejs-eschool-api
+	url = https://github.com/gmahota/nodejs-eschool-api.git
